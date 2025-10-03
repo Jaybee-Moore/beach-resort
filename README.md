@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -71,3 +72,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 # beach-resort
 ...
 >>>>>>> bbb3490141f50832bf36e4d979d09df820657ebf
+=======
+# beach-resort
+...
+>>>>>>> 5aceb6b02bdf1ae3a993935e217da5d781628eb0
